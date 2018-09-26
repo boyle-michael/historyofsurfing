@@ -1,0 +1,19 @@
+body {
+  background-image: url('bg-surfing.jpg');
+  width: auto;
+  color: red;
+  text-align: center;
+}
+
+h1 {
+  position: center;
+  font-family: Indie Flower;
+}
+
+h2 {
+  font-family: Notable;
+}
+
+p {
+  font-family: Indie Flower;
+}
